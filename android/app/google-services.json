@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1093013460952",
+    "project_id": "squatt-super-admin",
+    "storage_bucket": "squatt-super-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093013460952:android:e7f37c31e914dda2e704ad",
+        "android_client_info": {
+          "package_name": "com.squatt.pock_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093013460952-1paav05u9r1v9r9m87n18i5n6c9c0f8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.squatt.pock_gym",
+            "certificate_hash": "95448b268a44a766586efa094c30cd5eecf594a9"
+          }
+        },
+        {
+          "client_id": "1093013460952-s2sg34hutljdfskras78urt1i6soeqgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.squatt.pock_gym",
+            "certificate_hash": "b35ee85c0bc305013b23a022adccfdb9f52d0a73"
+          }
+        },
+        {
+          "client_id": "1093013460952-i5m0fe0u3dpjkjg76d5eoj52jvbf3v36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyMrJqJP0j7L0v1aq-4REP8rMYRVSLf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093013460952-i5m0fe0u3dpjkjg76d5eoj52jvbf3v36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093013460952-04c92o6lsp0tp3jnt8bj5o6gj1m0f9to.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.squatt.pocketgym",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
