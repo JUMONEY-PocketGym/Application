@@ -1,5 +1,5 @@
 # Application
-The applications of Pocket Pop project were made with Flutter.
+The applications of Pocket ProjecT(PPT) were made with Flutter.
 
 Cause of security, we can only provide the basic structure of our application development in this repository.
 
