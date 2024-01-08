@@ -1,5 +1,5 @@
 # Application
-The Pocket gym applications were made with Flutter.
+The Pocket gym applications was made with Flutter.
 
 Cause of security, we can only provide the basic structure of our application development in this repository.
 
